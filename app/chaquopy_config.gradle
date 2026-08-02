@@ -1,0 +1,6 @@
+chaquopy {
+    defaultConfig {
+        version = "3.11"
+        // No heavy pip dependencies needed for the simplified metrics
+    }
+}

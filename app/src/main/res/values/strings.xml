@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LLM Evaluation Study</string>
+    <string name="prompt_hint">Enter your prompt here...</string>
+    <string name="generate_button">Compare Models</string>
+    <string name="select_models">Select Models</string>
+    <string name="result_title">Evaluation Results</string>
+    <string name="history_title">History</string>
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About</string>
+    <string name="winner">Winner: %s</string>
+    <string name="overall_score">Overall Score: %.2f</string>
+    <string name="loading">Evaluating...</string>
+    <string name="no_history">No history found.</string>
+    <string name="search_hint">Search history...</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="clear_all">Clear All</string>
+    <string name="delete">Delete</string>
+    <string name="retry">Retry</string>
+    <string name="error_api">API Error: %s</string>
+    <string name="error_internet">No internet connection.</string>
+    <string name="error_key">Invalid API Key.</string>
+</resources>
